@@ -4,6 +4,8 @@
 #define BUILD "31"
 #define DAEMON_NAME "knxdmxd"
 #define DAEMON_VERSION "1.0.2"
+#define TRUE 1
+#define FALSE 0
 
 #include <e131.h>
 #include <eibclient.h>
